@@ -1,0 +1,11 @@
+.venv/
+venv*/
+__pycache__/
+.ipynb_checkpoints/
+*.env
+.env
+# never commit credentials, full scenes or model weights
+*.joblib
+*.pt
+*.pkl
+*.SAFE/

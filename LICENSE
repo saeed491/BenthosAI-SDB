@@ -1,0 +1,34 @@
+BenthosAI Evaluation Licence
+
+Copyright (c) 2026 BenthosAI team. All rights reserved.
+
+1. Permitted use
+   Anyone may view, download and run the code and notebooks in this repository
+   free of charge, solely to evaluate, review or reproduce the results of the
+   BenthosAI submission to the Arab Youth Space Hackathon (813 Challenge),
+   including evaluation by its organisers, judges and mentors.
+
+2. Not permitted without prior written permission from the copyright holders
+   a. any commercial use of the software or any part of it;
+   b. copying, redistributing, publishing or sublicensing the software or
+      modified versions of it;
+   c. incorporating the software, or any part of it, into other software,
+      products or services.
+
+3. No patent licence
+   No licence is granted under any patent or patent application, whether
+   expressly, by implication or by estoppel.
+
+4. Third-party data
+   The sample data in data/sample_input/ remain under their own licences:
+   Copernicus Sentinel data (Copernicus open licence), NASA ICESat-2 ATL24
+   (NASA open data) and the EOT20 tide model (CC BY 4.0). This licence does
+   not restrict your rights in those data.
+
+5. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE. The outputs
+   are not for navigation.
+
+For permission requests, contact the BenthosAI team through this repository.

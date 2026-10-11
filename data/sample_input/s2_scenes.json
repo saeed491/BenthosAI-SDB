@@ -1,0 +1,59 @@
+{
+  "source": "https://planetarycomputer.microsoft.com/api/stac/v1",
+  "collection": "sentinel-2-l2a",
+  "crs": "EPSG:32639",
+  "aoi_bounds": [
+    659500,
+    2676900,
+    663500,
+    2682700
+  ],
+  "ctx_bounds": [
+    653000,
+    2671000,
+    670400,
+    2688400
+  ],
+  "bands": [
+    "B01",
+    "B02",
+    "B03",
+    "B04",
+    "B05",
+    "B08",
+    "B11",
+    "SCL"
+  ],
+  "scenes": [
+    {
+      "id": "S2A_MSIL2A_20220829T065641_R063_T39QXG_20240718T033121",
+      "date": "2022-08-29",
+      "datetime_utc": "2022-08-29T06:56:41.024000+00:00",
+      "processing_baseline": "05.10",
+      "sun_zenith_deg": 23.5883686525317,
+      "cloud_cover_pct": 0.187113,
+      "aoi_file": "S2_20220829_aoi10m.tif",
+      "ctx_file": "S2_20220829_ctx60m.tif"
+    },
+    {
+      "id": "S2B_MSIL2A_20220903T065629_R063_T39QXG_20220903T175254",
+      "date": "2022-09-03",
+      "datetime_utc": "2022-09-03T06:56:29.024000+00:00",
+      "processing_baseline": "04.00",
+      "sun_zenith_deg": 24.5520780471985,
+      "cloud_cover_pct": 0.258712,
+      "aoi_file": "S2_20220903_aoi10m.tif",
+      "ctx_file": "S2_20220903_ctx60m.tif"
+    },
+    {
+      "id": "S2B_MSIL2A_20220923T065629_R063_T39QXG_20240725T151945",
+      "date": "2022-09-23",
+      "datetime_utc": "2022-09-23T06:56:29.024000+00:00",
+      "processing_baseline": "05.10",
+      "sun_zenith_deg": 29.3112369861462,
+      "cloud_cover_pct": 0.718654,
+      "aoi_file": "S2_20220923_aoi10m.tif",
+      "ctx_file": "S2_20220923_ctx60m.tif"
+    }
+  ]
+}
